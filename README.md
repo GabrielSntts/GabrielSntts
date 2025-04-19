@@ -76,7 +76,7 @@ Meu nome é Gabriel dos Santos Almeida, tenho 18 anos e moro em São Paulo. Comp
 ### 📊 Estatísticas
 
 <img 
-    aligh="left"
+    aligh="right"
     alt="Github Stats"
     width="200"
     style="padding-right: 10px;"
